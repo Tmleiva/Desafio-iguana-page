@@ -1,0 +1,121 @@
+body {
+    margin: 0;
+    padding: 0;
+    font-family: 'Raleway', sans-serif;
+    background-color: #000000;
+    color: #FFFFFF;
+}
+
+header h1 {
+    font-size: 50px;
+    padding: 20px;
+    text-align: center;
+    margin: 0;
+    color: #FFFFFF;
+    font-weight: medium;
+}
+
+.header-iguana {
+    background-image: url(../img/bg-header.jpg);
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 85vh;
+    width: 100%;
+}
+
+
+.parrafo, .desc-img {
+    display: inline-block;
+
+}
+
+.desc-section {
+    background-color: #000000;
+    padding: 45px 150px 66px;
+    text-align: center;
+}
+
+
+.parrafo {
+    font-family: 'Raleway', sans-serif;
+    font-size: 16px;
+    font-weight: lighter;
+    text-align: left;
+    width: 475px;
+    height: 197px;
+    margin: 0 106px;
+}
+
+.desc-img {
+    width: 399px;
+    height: 237px;
+    
+}
+
+.icons-section {
+    background-color: #1E1A13;
+    padding: 60px 0;
+    text-align: center;
+    font-weight: 300;
+}
+
+.centrado {
+    margin: 0 auto;
+    width: 75%;
+}
+
+.centrado h2 {
+    font-size: 42px;
+    color: #FFFFFF;
+    font-weight: medium;    
+}
+
+.centrado article {
+    display: inline-block;
+    margin: 0 auto;
+    font-size: 23px;
+    width: 30%;
+    font-weight: lighter;
+}
+
+.fa-eye {
+    font-size: 50px;
+}
+
+.fa-angellist {
+    font-size: 50px;
+}
+
+.fa-paintbrush {
+    font-size: 50px;
+}
+
+
+.bloque-imagenes {
+    text-align: center;
+    padding: 73px 150px;
+   
+}
+
+.trip {
+    width: 30%;
+    height: 316px;
+    display: inline-block;
+    margin: 0 16px;
+}
+
+footer {
+    font-size: 20px;
+    text-align: center;
+    padding: 30px 0;
+    background-color: #1E1A13;
+    color: #FFFFFF;
+    font-weight: lighter;
+}
+
+a {
+    text-decoration: none;
+    color: #FFFFFF;
+    
+}
